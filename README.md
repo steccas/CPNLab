@@ -1,5 +1,5 @@
 # CPNLab
-My bachelor degree fianl projects.
+My bachelor degree final projects.
 
 Allows to control Docker containers via a graphical interface.
 
